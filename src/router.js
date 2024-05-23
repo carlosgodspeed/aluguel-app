@@ -17,7 +17,7 @@ function Routes(){
            name="home"
            component={Home}
            options={{
-            title:'Alugue',
+            title:'World House',
             headerTitleStyle:{
               fontFamily: 'Montserrat_700Bold'
             },
