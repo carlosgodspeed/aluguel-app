@@ -37,7 +37,7 @@ function Routes(){
            name="detail"
            component={Detail}
            options={{
-            title:'Detalhe',
+            title:'Avaliações',
             headerTitleStyle:{
               fontFamily: 'Montserrat_700Bold'
             },
